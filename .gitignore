@@ -56,6 +56,10 @@ dkms.conf
 packages/
 Car_Facility_Client/bin/
 Car_Facility_Client/obj/
+Car_Facility_Client/Serializer/bin/
+Car_Facility_Client/Serializer/obj/
+Car_Facility_Client/Serializer_Test/bin/
+Car_Facility_Client/Serializer_Test/obj/
 Car_Facility_Model/bin/
 Car_Facility_Model/obj/
 Car_Facility_WinForms_Client/bin/
