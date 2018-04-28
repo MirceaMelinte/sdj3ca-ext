@@ -54,5 +54,9 @@ dkms.conf
 # binary
 .vs/
 packages/
-TrafficPoliceClient/bin/
-TrafficPoliceClient/obj/
+Car_Facility_Client/bin/
+Car_Facility_Client/obj/
+Car_Facility_Model/bin/
+Car_Facility_Model/obj/
+Car_Facility_WinForms_Client/bin/
+Car_Facility_WinForms_Client/obj/
