@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TrafficPoliceClient.Properties
+namespace Car_Facility_Client.Properties
 {
 
 

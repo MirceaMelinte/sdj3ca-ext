@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrafficPoliceClient
+namespace Car_Facility_Client
 {
     static class Program
     {
