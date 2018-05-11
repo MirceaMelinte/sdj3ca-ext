@@ -56,7 +56,7 @@ dkms.conf
 packages/
 CarFacilityClient/bin/
 CarFacilityClient/obj/
-CarFacilityClient/XMLMarshaller/bin/
-CarFacilityClient/XMLMarshaller/obj/
+CarFacilityClient/XmlMarshaller/bin/
+CarFacilityClient/XmlMarshaller/obj/
 CarFacilityModel/bin/
 CarFacilityModel/obj/

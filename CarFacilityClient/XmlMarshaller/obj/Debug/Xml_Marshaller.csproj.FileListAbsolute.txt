@@ -1,6 +1,0 @@
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\bin\Debug\XmlMarshaller.dll
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\bin\Debug\XmlMarshaller.pdb
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\obj\Debug\Xml_Marshaller.csprojResolveAssemblyReference.cache
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\obj\Debug\Xml_Marshaller.csproj.CoreCompileInputs.cache
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\obj\Debug\XmlMarshaller.dll
-C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\XmlMarshaller\obj\Debug\XmlMarshaller.pdb
