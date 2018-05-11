@@ -1,0 +1,14 @@
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.csprojResolveAssemblyReference.cache
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.Properties.Resources.resources
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.csproj.GenerateResource.cache
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.csproj.CoreCompileInputs.cache
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\CarFacilityClient.exe.config
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\CarFacilityClient.exe
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\CarFacilityClient.pdb
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\CarFacilityModel.dll
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\XmlMarshaller.dll
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\CarFacilityModel.pdb
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\bin\Debug\XmlMarshaller.pdb
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.csproj.CopyComplete
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.exe
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityClient\obj\Debug\CarFacilityClient.pdb

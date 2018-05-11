@@ -1,0 +1,6 @@
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\bin\Debug\CarFacilityModel.dll
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\bin\Debug\CarFacilityModel.pdb
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\obj\Debug\CarFacilityModel.csprojResolveAssemblyReference.cache
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\obj\Debug\CarFacilityModel.csproj.CoreCompileInputs.cache
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\obj\Debug\CarFacilityModel.dll
+C:\Users\mskn\Desktop\ICT\4th Semester\SDJ3\Course Assignment\FINAL CODE\CSharp Client\CarFacilityModel\obj\Debug\CarFacilityModel.pdb
