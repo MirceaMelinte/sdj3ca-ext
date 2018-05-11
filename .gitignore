@@ -54,9 +54,9 @@ dkms.conf
 # binary
 .vs/
 packages/
-Car_FacilityClient/bin/
-Car_FacilityClient/obj/
-Car_FacilityClient/XMLMarshaller/bin/
-Car_FacilityClient/XMLMarshaller/obj/
-Car_FacilityModel/bin/
-Car_FacilityModel/obj/
+CarFacilityClient/bin/
+CarFacilityClient/obj/
+CarFacilityClient/XMLMarshaller/bin/
+CarFacilityClient/XMLMarshaller/obj/
+CarFacilityModel/bin/
+CarFacilityModel/obj/
