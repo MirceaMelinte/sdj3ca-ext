@@ -24,7 +24,7 @@ namespace CarFacilityModel
 
         public Car() { }
 
-        public override String ToString()
+        public override string ToString()
         {
             StringBuilder s = new StringBuilder();
 

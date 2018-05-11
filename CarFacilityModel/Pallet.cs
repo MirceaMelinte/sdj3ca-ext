@@ -16,13 +16,13 @@ namespace CarFacilityModel
         [XmlElement(ElementName = "maxWeight", Order = 4)]
         public double MaxWeight { get; set; }
         [XmlElement(ElementName = "state", Order = 5)]
-        public string State{ get; set; }
+        public string State { get; set; }
         [XmlElement(ElementName = "partList", Order = 6)]
         public PartList PartList { get; set; }
 
         public Pallet() { }
 
-        public override String ToString()
+        public override string ToString()
         {
             StringBuilder s = new StringBuilder();
 

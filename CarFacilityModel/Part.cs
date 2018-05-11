@@ -19,7 +19,7 @@ namespace CarFacilityModel
 
         public Part() { }
 
-        public override String ToString()
+        public override string ToString()
         {
             StringBuilder s = new StringBuilder();
 

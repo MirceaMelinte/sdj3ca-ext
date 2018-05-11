@@ -46,7 +46,7 @@ namespace CarFacilityModel
             return Parts.Count();
         }
 
-        public override String ToString()
+        public override string ToString()
         {
             StringBuilder s = new StringBuilder();
 
@@ -54,6 +54,7 @@ namespace CarFacilityModel
             {
                 s.Append(part.ToString());
             }
+            
             return s.ToString();
         }
     }
